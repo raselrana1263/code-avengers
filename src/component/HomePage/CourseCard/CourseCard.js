@@ -5,7 +5,7 @@ const CourseCard = ({ course }) => {
     const {id} = course;
     
   return (
-    <div className="bg-gray-100">
+    <div className="">
       <div class="p-4 text-center bg-blue-100 border rounded shadow-lg">
           <img className="rounded" src={course.photo} alt="" />
         <h2 className="text-center text-xl font-bold text-gray-700 tracking-wide mt-2">{course.name}</h2>

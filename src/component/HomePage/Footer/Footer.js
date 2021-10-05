@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="bg-blue-200">
       <footer class="flex flex-col items-center justify-between px-4 py-12 mx-auto max-w-7xl md:flex-row">
         <p class="mb-8 text-md text-center text-gray-900 md:text-left md:mb-0">
-          © Copyright 2020 Coder Avengers. All Rights Reserved.
+          © Copyright 2020 Code Avengers. All Rights Reserved.
         </p>
         <div class="flex items-center space-x-6">
           <Link to="#">
